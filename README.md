@@ -1,7 +1,7 @@
 # ReseauSocialJeuxVideos
 
 Voici un projet réalisé lors de ma première année d'école d'ingénieur à Polytech Paris-Saclay codé Java. Le sujet se trouve dans le fichier : projet_et3_java_2021-22.pdf   
-Le but de se projet était de
+Le but de ce projet était de réaliser une application simplifiée permettant la gestion de la collection de jeux vidéo d'un réseau social.
 
 ---------------------------------------------------
 
